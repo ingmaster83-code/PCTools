@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth:*)",
+      "Bash(gh api:*)",
+      "Bash(curl -s \"https://api.github.com/users/ingmaster83-code/repos?per_page=20&sort=created\")",
+      "Bash(curl -s \"https://api.github.com/repos/ingmaster83-code/Linker/commits?per_page=1\")",
+      "Bash(curl -s \"https://api.github.com/repos/ingmaster83-code/Linker\")",
+      "Bash(curl -s \"https://api.github.com/repos/ingmaster83-code/Linker/contents/\")"
+    ],
+    "additionalDirectories": [
+      "h:\\개인 프로젝트\\FontKit",
+      "h:\\개인 프로젝트\\VSKit"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//h/개인 프로젝트/**)",
+      "Bash(mkdir -p \"h:/개인 프로젝트/FontKit/css\")",
+      "Bash(mkdir -p \"h:/개인 프로젝트/VSKit/css\")"
+    ],
+    "additionalDirectories": [
+      "h:\\개인 프로젝트\\Linker",
+      "h:\\개인 프로젝트\\MacTools",
+      "h:\\개인 프로젝트\\ChromeKit\\css",
+      "h:\\개인 프로젝트\\ChromeKit",
+      "h:\\개인 프로젝트\\FontKit\\css",
+      "h:\\개인 프로젝트\\VSKit\\css"
+    ]
+  }
+}
