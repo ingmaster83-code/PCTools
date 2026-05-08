@@ -1,4 +1,4 @@
-const CACHE_NAME = 'PCTools-v6';
+const CACHE_NAME = 'PCTools-v7';
 const ASSETS = ['/', '/index.html', '/css/style.css'];
 
 self.addEventListener('install', e => {
