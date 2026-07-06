@@ -1,0 +1,76 @@
+# WooaPC
+> Windows PC 사용자를 위한 무료 유틸리티 도구 모음
+
+WooaPC은 설치나 로그인 없이 브라우저에서 바로 사용하는 무료 온라인 도구 모음입니다. 모든 처리는 사용자 브라우저 내에서 이루어지며 파일을 서버로 전송하지 않습니다.
+
+## Tools
+- [7-Zip](https://pctools.wooahouse.com/apps/7-zip.html): 오픈소스 무료 압축 프로그램. 업계 최고 수준의 압축률, 광고 없음, 완전 무료
+- [AMD 드라이버](https://pctools.wooahouse.com/apps/amd-driver.html): AMD 라데온 GPU 공식 드라이버. AMD Software Adrenalin으로 성능·안정성 최신 유지
+- [Adobe Acrobat Reader](https://pctools.wooahouse.com/apps/adobe-acrobat-reader.html): 어도비 공식 무료 PDF 뷰어. PDF 표준 제작사의 뷰어로 완벽한 호환성과 주석·서명 기능 제공
+- [AnyDesk](https://pctools.wooahouse.com/apps/anydesk.html): 초저지연 원격 제어 프로그램. 가벼운 설치 파일, 빠른 연결 속도, 개인 사용 무료
+- [AutoHotkey](https://pctools.wooahouse.com/apps/autohotkey.html): Windows 자동화 스크립트 도구. 단축키·매크로·반복 작업 자동화
+- [Battle.net](https://pctools.wooahouse.com/apps/battlenet.html): 블리자드 공식 게임 런처. 오버워치·디아블로·워크래프트 등 블리자드 게임 통합 실행
+- [Brave](https://pctools.wooahouse.com/apps/brave.html): 프라이버시 특화 브라우저. 광고·추적기 기본 차단, 크롬 확장 프로그램 호환, 빠른 속도
+- [CPU-Z](https://pctools.wooahouse.com/apps/cpu-z.html): CPU·RAM·메인보드 상세 정보를 확인하는 도구. 내 PC 사양을 정확히 파악 가능, 무료
+- [CrystalDiskInfo](https://pctools.wooahouse.com/apps/crystaldiskinfo.html): HDD·SSD 건강 상태와 S.M.A.R.T 정보 확인. 디스크 수명 예측, 고장 사전 경고
+- [CrystalDiskMark](https://pctools.wooahouse.com/apps/crystaldiskmark.html): SSD·HDD 읽기·쓰기 속도를 측정하는 벤치마크 도구. 저장장치 성능을 수치로 정확히 확인
+- [Cursor](https://pctools.wooahouse.com/apps/cursor.html): AI 기반 코드 에디터. Claude·GPT-4 탑재, VS Code 호환
+- [Discord](https://pctools.wooahouse.com/apps/discord.html): 게이머와 커뮤니티를 위한 메신저. 고품질 음성채팅, 서버·채널 구조, 화면 공유
+- [Ditto](https://pctools.wooahouse.com/apps/ditto.html): 클립보드 복사 기록을 저장·관리해주는 도구. 수백 개 복사 내역 보관, 빠른 검색·붙여넣기
+- [Docker Desktop](https://pctools.wooahouse.com/apps/docker-desktop.html): 컨테이너 기반 개발 환경 관리 도구. 개발·테스트·배포 환경을 격리해 일관성 유지, 개발자 필수
+- [Dropbox](https://pctools.wooahouse.com/apps/dropbox.html): 파일 공유에 특화된 클라우드 스토리지. 팀 협업·링크 공유 기능 우수, 2GB 무료 제공
+- [EA App](https://pctools.wooahouse.com/apps/ea-app.html): EA 공식 게임 런처 (Origin 후속). FIFA·배틀필드·심즈 등 EA 게임 전용 플랫폼
+- [Epic Games Launcher](https://pctools.wooahouse.com/apps/epic-games.html): 에픽게임즈 공식 런처. 포트나이트·매주 무료 게임 제공, 언리얼 엔진 개발자 필수
+- [Everything](https://pctools.wooahouse.com/apps/everything.html): 윈도우 파일을 0.1초 안에 찾아주는 초고속 검색 도구. 기본 탐색기 검색보다 수백 배 빠름
+- [FastStone Image Viewer](https://pctools.wooahouse.com/apps/faststone-viewer.html): 무료 이미지 뷰어·편집기. 슬라이드쇼·일괄 변환·간단 편집
+- [GPU-Z](https://pctools.wooahouse.com/apps/gpu-z.html): 그래픽카드 상세 정보를 확인하는 무료 도구. GPU 클럭·온도·메모리·드라이버 버전 한눈에 확인
+- [Git](https://pctools.wooahouse.com/apps/git.html): 전 세계 표준 버전 관리 시스템. 코드 이력 관리, GitHub 연동, 협업 필수 도구
+- [GitHub Desktop](https://pctools.wooahouse.com/apps/github-desktop.html): GitHub 공식 Git GUI 클라이언트. 비주얼로 쉽게 버전 관리
+- [Google Chrome](https://pctools.wooahouse.com/apps/google-chrome.html): 세계 점유율 1위 브라우저. 빠른 속도와 방대한 확장 프로그램, 구글 서비스 완벽 연동
+- [Google Drive](https://pctools.wooahouse.com/apps/google-drive.html): 구글 클라우드 스토리지 데스크톱 앱. 15GB 무료 제공, 구글 Docs·Sheets 연동
+- [HWMonitor](https://pctools.wooahouse.com/apps/hwmonitor.html): PC 온도·전압·팬 속도를 실시간으로 모니터링. 과열 감지와 안정성 확인에 필수
+- [HWiNFO64](https://pctools.wooahouse.com/apps/hwinfo64.html): 종합 PC 하드웨어 정보·모니터링 도구. HWMonitor보다 상세한 정보
+- [LG Update Center](https://pctools.wooahouse.com/apps/lg-update.html): LG 노트북 공식 드라이버 업데이트 도구. LG gram 등 LG 기기 전용 최적화 드라이버 제공
+- [LibreOffice](https://pctools.wooahouse.com/apps/libreoffice.html): 오픈소스 무료 오피스 스위트. Word·Excel·PPT 형식 호환, MS Office 완벽 대체
+- [Malwarebytes](https://pctools.wooahouse.com/apps/malwarebytes.html): 악성코드·스파이웨어 전문 제거 도구. 기존 백신과 병행 사용 가능, 포맷 후 정밀 검사 추천
+- [Microsoft Edge](https://pctools.wooahouse.com/apps/microsoft-edge.html): 윈도우 내장 크로미움 브라우저. 배터리 효율 우수, PDF 뷰어·번역 기능 내장
+- [Microsoft Teams](https://pctools.wooahouse.com/apps/microsoft-teams.html): 직장인·학생 필수 협업 플랫폼. 채팅·화상회의·파일 공유 통합, MS 365와 완벽 연동
+- [Mozilla Firefox](https://pctools.wooahouse.com/apps/firefox.html): 오픈소스 기반 독립 브라우저. 강력한 개인정보 보호와 높은 커스터마이징 자유도
+- [NVIDIA 드라이버](https://pctools.wooahouse.com/apps/nvidia-driver.html): NVIDIA 지포스 GPU 공식 드라이버. 최신 게임 최적화 및 성능 향상, GeForce Experience 포함
+- [Naver Whale](https://pctools.wooahouse.com/apps/naver-whale.html): 네이버가 개발한 한국형 브라우저. 듀얼탭·쪽모이 기능, 한국 서비스 최적화
+- [Node.js](https://pctools.wooahouse.com/apps/nodejs.html): 자바스크립트 런타임 환경. npm 생태계, 프론트엔드 개발 필수, LTS 버전 권장
+- [Notion](https://pctools.wooahouse.com/apps/notion.html): 메모·문서·데이터베이스·협업을 하나로 통합한 올인원 앱. 개인 사용 무료, 팀 협업에도 최적
+- [Obsidian](https://pctools.wooahouse.com/apps/obsidian.html): 마크다운 기반 노트 앱. 링크로 연결되는 지식 그래프, 완전 로컬 저장
+- [OneDrive](https://pctools.wooahouse.com/apps/onedrive.html): MS 공식 클라우드 스토리지. 윈도우에 기본 통합, 5GB 무료, Office 파일 자동 동기화
+- [Opera](https://pctools.wooahouse.com/apps/opera.html): 무료 VPN·광고 차단 내장 브라우저. 게이머 특화 버전 Opera GX도 제공
+- [Postman](https://pctools.wooahouse.com/apps/postman.html): API 개발·테스트 전용 도구. REST·GraphQL API 요청 테스트, 자동화·문서화 기능 내장, 무료 플랜 제공
+- [PowerToys](https://pctools.wooahouse.com/apps/powertoys.html): MS 공식 윈도우 생산성 도구 모음. 창 분할(FancyZones)·파일명 일괄변경·색상 선택기 등 내장
+- [Python](https://pctools.wooahouse.com/apps/python.html): 범용 프로그래밍 언어. 데이터 분석·자동화·AI 개발, 입문자 친화적이고 생태계가 방대함
+- [QDir](https://pctools.wooahouse.com/apps/qdir.html): 탐색기를 4분할로 동시에 열어주는 파일 관리 도구. 파일 복사·이동 작업 효율 극대화
+- [Samsung Update](https://pctools.wooahouse.com/apps/samsung-update.html): 삼성 노트북·PC 공식 드라이버 및 펌웨어 업데이트 도구. 삼성 기기 필수
+- [ShareX](https://pctools.wooahouse.com/apps/sharex.html): 캡처·녹화·GIF 제작까지 가능한 종합 생산성 도구. 다양한 캡처 모드, 완전 무료 오픈소스
+- [Spotify](https://pctools.wooahouse.com/apps/spotify.html): 세계 1위 음악 스트리밍 서비스 데스크탑 앱. 1억 곡 이상, 무료 플랜 제공, 플레이리스트 공유
+- [Steam](https://pctools.wooahouse.com/apps/steam.html): 세계 최대 PC 게임 플랫폼. 5만 개 이상의 게임 보유, 할인 행사·커뮤니티·클라우드 세이브 제공
+- [Sumatra PDF](https://pctools.wooahouse.com/apps/sumatra-pdf.html): 초경량 오픈소스 PDF·전자책 뷰어. 설치 없이 실행 가능, 매우 빠른 로딩, 광고 없음
+- [TeamViewer](https://pctools.wooahouse.com/apps/teamviewer.html): 세계 1위 원격 제어 프로그램. 개인 비상업적 사용 무료, 파일 전송·화상통화 기능 내장
+- [Telegram](https://pctools.wooahouse.com/apps/telegram.html): 보안·속도에 강한 글로벌 메신저. 대용량 파일 전송(2GB), 채널·봇 기능, 국내외 폭넓게 사용
+- [Ubisoft Connect](https://pctools.wooahouse.com/apps/ubisoft-connect.html): 유비소프트 공식 게임 런처. 어쌔신크리드·레인보우식스·파크라이 등 유비소프트 게임 통합 실행
+- [V3 Lite](https://pctools.wooahouse.com/apps/v3-lite.html): 안랩(AhnLab)이 개발한 무료 백신. 가벼운 리소스 사용, 국내 사이버 위협 대응 특화
+- [VLC](https://pctools.wooahouse.com/apps/vlc.html): 오픈소스 멀티미디어 플레이어. 코덱 설치 없이 모든 포맷 재생, 광고 없음, 가벼움
+- [Visual Studio Code](https://pctools.wooahouse.com/apps/vs-code.html): MS가 개발한 무료 코드 에디터. 방대한 확장 프로그램, 빠른 속도, 모든 언어 지원
+- [WinRAR](https://pctools.wooahouse.com/apps/winrar.html): RAR 포맷 원조 압축 프로그램. RAR5·ZIP 생성, 복구 레코드 기능
+- [Windows Terminal](https://pctools.wooahouse.com/apps/windows-terminal.html): MS 공식 모던 터미널. PowerShell·CMD·WSL을 탭으로 통합
+- [Zoom](https://pctools.wooahouse.com/apps/zoom.html): 화상회의 표준 플랫폼. 안정적인 화상통화, 회의 녹화, 대규모 인원 참여 지원
+- [f.lux](https://pctools.wooahouse.com/apps/flux.html): 시간대에 맞게 화면 색온도를 자동 조절하는 눈 보호 도구. 야간 블루라이트를 줄여 눈 피로 감소
+- [곰플레이어](https://pctools.wooahouse.com/apps/gomplayer.html): 국내 대표 무료 동영상 플레이어. 자막 지원, 다양한 코덱 내장, 오랜 기간 검증된 안정성
+- [꿀뷰](https://pctools.wooahouse.com/apps/honeyview.html): 반디소프트가 개발한 무료 이미지 뷰어. 빠른 속도, 다양한 이미지 포맷 지원, 압축파일 내 이미지 바로 보기
+- [반디집](https://pctools.wooahouse.com/apps/bandizip.html): 국내 개발 무료 압축 프로그램. 한글 파일명 깨짐 없음, ZIP·RAR·7Z 등 다양한 포맷 지원
+- [알약](https://pctools.wooahouse.com/apps/alyac.html): 이스트소프트가 개발한 국내 1위 무료 백신. 실시간 감시와 한국형 악성코드 DB 특화
+- [알집](https://pctools.wooahouse.com/apps/alzip.html): 이스트소프트가 개발한 국내 대표 압축 프로그램. ALZ·EGG 등 국내 전용 포맷 지원
+- [카카오톡](https://pctools.wooahouse.com/apps/kakaotalk.html): 국내 점유율 1위 메신저 PC 버전. 모바일과 연동, 파일 전송, 국민 메신저
+- [팟플레이어](https://pctools.wooahouse.com/apps/potplayer.html): 카카오가 제공하는 국내 대표 동영상 플레이어. 모든 영상 포맷 재생, 자막 자동 검색 지원
+- [한컴오피스 뷰어](https://pctools.wooahouse.com/apps/hancom-viewer.html): HWP·HWPX 파일을 열어볼 수 있는 무료 뷰어. 공문서·관공서 파일 완벽 호환
+
+## Site
+- Homepage: https://pctools.wooahouse.com/
+- Part of the WooaHouse family (wooahouse.com) of free browser-based tools
