@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://pctools.wooahouse.com/sitemap.xml
+
+#DaumWebMasterTool:8fe72ff4c3b38f9cd490107c10b48db7001eb37104186fd50862303d3c7488d2:5OHFs/qHHlfCvAas17iLzw==
